@@ -1,0 +1,75 @@
+body {
+	font-family:verdana, arial, geneva, arial black;
+	background-image: url(http://2.bp.blogspot.com/-hO9FSDgiG_c/TsaLrLBYcCI/AAAAAAAAxTg/8TwQudiIe9k/s1024/fondo-corazones.gif);
+}
+#heading {
+	text-align: center;	
+	text-decoration: underline overline;
+	font-size: 300%;
+	color: #B52121;
+	}
+.Imagec {
+	padding: 10px;
+	border-color: #A56C75;
+	border-width: 5px;
+	border-style: solid;
+	display: block;
+	background-color: #B52121;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 35px;
+}
+#welcome {
+	font-size: 24px;
+	font-weight: bold;
+	color: #7bb5dd;
+	text-align: center;	
+	padding: 5px;
+	border-color: #A56C75;
+	border-style: solid;
+	border-width: 7px;
+	width: 500px;
+	margin: auto;
+	background-color: #B52121;
+}
+h2 {
+	text-align: center;
+	font-size: 32px;
+}
+#about {
+	font-size: 24px;
+	font-weight: bold;
+	color: #7bb5dd;
+	text-align: center;	
+	padding: 10px;
+	border-color: #A56C75;
+	border-style: solid;
+	border-width: 7px;
+	/*width: 750px;*/
+	margin: auto;
+	background-color: #B52121;
+}
+#goback {
+	text-align: center;
+	font-size: 22px;
+}
+.photo {
+	padding: 10px;
+	border-color: #A56C75;
+	border-width: 5px;
+	border-style: solid;
+	display: inline;
+	background-color: #B52121;
+	height: 300;
+	width: 300;
+	margin: 6;
+}
+.photo:hover {
+	opacity: 0.75;
+    filter: alpha(opacity=75);
+}
+#pictures {
+		margin-left: auto;
+		margin-right: auto;
+}
+
